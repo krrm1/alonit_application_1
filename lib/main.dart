@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: const Color(0xFF27AA39)),
       ),
-      home: const MyHomePage(title: 'Alonit Home Page 🏪'),
+      home: const MyHomePage(title: 'Alonit (TEL-MOND 981) השמדת מאפים'),
     );
   }
 }
